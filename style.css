@@ -1,6 +1,14 @@
+body {
+    background-color: black;
+}
 h1 {
-    color: red;
+    color: greenyellow;
+    text-decoration: dotted;
+    text-decoration-line: overline;
 }
 #coin {
     size: 10px;
+}
+p {
+    color: whitesmoke;
 }
